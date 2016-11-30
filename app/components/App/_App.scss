@@ -1,0 +1,8 @@
+@import "toolkit";
+
+.app {
+  font-size: inherit;
+  @include my-padding-mixin(20px);
+  background-color: #efefef;
+  color: grey;
+}

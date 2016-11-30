@@ -1,0 +1,50 @@
+@import "toolkit";
+
+.list {
+	list-style: none;
+	display:inline;
+	padding-left: 15%;
+}
+
+.item {
+	margin:inherit;
+}
+
+.postDiv {
+	padding-left: 15%;
+	width:70%
+}
+
+.comment {
+  border-radius: 8px;
+  border-width: 1px;
+  border:solid;
+  border-color: white;
+  padding:5px;
+}
+
+.post {
+  background: #caebf2;
+  border-radius: 8px;
+  padding: 10px 20px 20px 20px;
+}
+
+.header {
+  	margin: 0 0 20px 0;
+}
+
+.message {
+	
+	
+}
+
+.provider {
+	float: right;
+}
+
+.footer {
+  border-top: 1px solid $border-color;
+  font-size: inherit;
+  margin-top: 20px;
+  padding-top: 20px;
+}
