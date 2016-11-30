@@ -2,5 +2,5 @@
 
 1. Pull repository
 2. In command line, navigate to new directory
-3. Type npm install into command
-4. Type npm start (this should open up a browser window pointed at a locally hosted webpage)
+3. Type npm install into command line and hit enter
+4. Type npm start and hit enter (this should open up a browser window pointed at a locally hosted webpage)
